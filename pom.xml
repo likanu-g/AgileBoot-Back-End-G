@@ -6,7 +6,7 @@
 
     <groupId>com.agileboot</groupId>
     <artifactId>agileboot</artifactId>
-    <version>${agileboot.version}</version>
+    <version>1.0.0</version>
 
     <name>agileboot</name>
     <url>http://www.agileboot.vip</url>
